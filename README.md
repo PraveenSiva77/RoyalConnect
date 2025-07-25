@@ -214,18 +214,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏛️ About Rotaract Club of Coimbatore Royals
-
-The Rotaract Club of Coimbatore Royals has a rich legacy from R.I District 3200 to 3201, established in 2007 with the motto of "self-development and fellowship through service." The club was chartered on 29th October 2008, sponsored by the Rotary Club of Coimbatore Texcity.
-
-### Key Highlights
-
-- **Established**: 2007
-- **Chartered**: October 29, 2008
-- **Sponsor**: Rotary Club of Coimbatore Texcity
-- **Current President**: Rtr. P. Malchielraj
-- **Motto**: "Self-development and fellowship through service"
-
 ## 👨‍💻 Contributors
 
 ### Praveenkumar S
